@@ -7,6 +7,9 @@ permalink: /
 
 **Fighting for Our Children’s Safety, Education, and Community Ties**
 
+![image](https://github.com/user-attachments/assets/34cde053-bea7-4f48-9950-c5d70dc94697)
+
+
 ---
 
 We are a community of parents, residents, and concerned citizens in Kellyville, NSW, who are deeply affected by the recent decision to change the catchment area for **Kellyville Public School (KPS)**. This decision forces our children to attend **Beaumont Hills Public School (BHPS)**, a move that compromises their safety, disrupts their education, and severs their ties to a school they love.
