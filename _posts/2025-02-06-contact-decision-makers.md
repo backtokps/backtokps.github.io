@@ -14,7 +14,7 @@ By reaching out to decision-makers, we can show them the impact of this decision
 
 **Every email, every call, and every voice counts.** Let’s make sure our concerns are heard loud and clear.  
 
----
+
 
 ## **How You Can Help**
 
@@ -23,9 +23,8 @@ By reaching out to decision-makers, we can show them the impact of this decision
 3. **Share Your Story:** Personalize the email templates with your own experiences and concerns.  
 4. **Spread the Word:** Encourage friends, family, and neighbors to take action too.  
 
----
 
-## Voice your concern to decision makers
+## Voice your concern to the decision makers!
 
 ### Send Email to Mr. Ray Williams
 
@@ -147,88 +146,9 @@ Kind regards,
  
 ```
 
-## **Email Templates**
-
-Below are email templates you can use to contact decision-makers. Feel free to copy, paste, and personalize them using AI tools or your own words.  
 
 ---
 
-### **Template 1: General Concern**
-
-**Subject:** Urgent: Reinstate Kellyville Public School as Our Catchment  
-
-**Email Body:** 
-
-```
-Dear [Recipient's Name],  
-
-I am writing to express my deep concern about the recent decision to change the catchment area for Kellyville Public School (KPS). This decision forces our children to attend Beaumont Hills Public School (BHPS), which raises serious safety, educational, and community concerns.  
-
-- **Safety:** Children are now required to cross dangerous roads like Samantha Riley Drive, which has a history of accidents.  
-- **Education:** KPS has a strong academic record, while BHPS has seen declining enrolments and lower performance.  
-- **Community:** Our families have been part of the KPS community for over 25 years, and this decision is tearing apart friendships and bonds.  
-
-I urge you to reinstate the original catchment area for KPS and prioritize the safety and well-being of our children.  
-
-Thank you for your attention to this matter.  
-
-Sincerely,  
-[Your Name]  
-[Your Address]  
-[Your Contact Information]
-```
-
----
-
-### **Template 2: Safety Concerns**
-
-**Subject:** Safety Risks for Children Due to KPS Catchment Change  
-
-**Email Body:**  
-```
-Dear [Recipient's Name],  
-
-I am writing to highlight the serious safety risks posed by the recent decision to change the catchment area for Kellyville Public School (KPS).  
-
-Our children are now required to cross **Samantha Riley Drive**, a busy four-lane road with a history of accidents. Between 2019 and 2023, there were **32 recorded incidents**, including 4 serious accidents. This is an unacceptable risk for our children, who previously had a safe and straightforward walk to KPS.  
-
-I urge you to reinstate the original catchment area for KPS and ensure that our children can attend their local school safely.  
-
-Thank you for your attention to this urgent matter.  
-
-Sincerely,  
-[Your Name]  
-[Your Address]  
-[Your Contact Information]
-```  
-
----
-
-### **Template 3: Community and Education**
-
-**Subject:** Protect Our Children’s Education and Community Ties  
-
-**Email Body:**
-
-```
-Dear [Recipient's Name],  
-
-The recent decision to change the catchment area for Kellyville Public School (KPS) has had a devastating impact on our community.  
-
-- **Community Ties:** Our families have been part of the KPS community for over 25 years. This decision is tearing apart friendships and bonds that our children have built over the years.  
-- **Educational Quality:** KPS has a strong academic reputation, consistently performing well in NAPLAN assessments. In contrast, Beaumont Hills Public School (BHPS) has seen declining enrolments and lower performance.  
-
-I urge you to reinstate the original catchment area for KPS and prioritize the education and well-being of our children.  
-
-Thank you for your attention to this matter.  
-
-Sincerely,  
-[Your Name]  
-[Your Address]  
-[Your Contact Information]
-```
-
----
 
 ## **Who to Contact**
 
