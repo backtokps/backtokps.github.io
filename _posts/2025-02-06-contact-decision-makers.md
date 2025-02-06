@@ -46,38 +46,50 @@ By reaching out to decision-makers, we can show them the impact of this decision
 
 [Send an Email to Ray Williams](mailto:metronorthnirimba@det.nsw.edu.au?cc=backtokps@gmail.com)
 
-Template
+Template:
 ```
+Subject: Strong Opposition to Kellyville Public School Catchment Rezoning
+
 Dear Mr Fuller,
-I am writing to you as an enraged member of the Kellyville community bounded between Poole Road, Windsor Road, and Samantha Riley Drive, who has had their local primary public school catchment changed from Kellyville Public School (KPS) to Beaumont Hills Public School (BHPS). This change has not only caused significant distress and divide for the children of our community, but your response to members of the community on 20 December 2024 has further exacerbated this and fails to provide any solution to bring our catchment back to KPS on a permanent basis where it rightly belongs. I demand a response to every point raised in this letter rather than the ridiculous generic responses received to date that fail to actually respond to each individual.
 
-Your department has failed to acknowledge the safety, educational and community division repercussions of this change. If our catchment is not reinstated back to what it was on a permanent basis then we demand a meeting with the Hon. NSW Deputy Premier, Ms. Prue Car to reinforce the significant safety concerns for our children from this change, the community connection we have to KPS, the safety implications of this change, and the completely viable and rationale solution that we have tabled to you during the community consultation as well as below in this letter.
-During the community consultation on 16 December 2024, you directly mentioned three points of note:
+I am writing to express my continued concern and disappointment over the recent rezoning of the Kellyville Public School (KPS) catchment, which unfairly excludes our community of 400 homes. This decision has caused significant distress and division, impacting the safety, educational quality, and community cohesion of our children.
 
-1) Community ties for children: You emphatically stated that children belong to grow up and thrive as part of their local community and go to the same local public school alongside their neighbourhood friends. Additionally you recognized that KPS is an important hallmark of our neighbourhood with children going to the school over the past 23 years and a number of people volunteering for various educational and extracurricular initiatives at the school over this time period.
+Your attendance at the December community meeting, alongside nearly 100 residents and our MP, Mr Ray Williams, was appreciated. However, the subsequent generic responses received from your department, including correspondence from Mr Taka Bodiam, fail to adequately address the specific concerns and suggestions raised by the community. This lack of direct engagement undermines the critical issues at hand and suggests a reluctance to actively resolve the challenges we face.
 
-2) Quality of education: You stressed the importance of quality education for our children, and the NAPLAN assessment is a direct reflection of these educational standards. Simply put, a school with a strong NAPLAN ranking observed over a period of time has a better education than one that does not.
+Since the meeting, the online petition opposing this rezoning has gained close to 400 signatures, highlighting the widespread opposition to this decision. Below, I reiterate our key concerns and urge your department to reconsider this unfair rezoning decision.
+	1.	Safety Concerns
+Forcing young children to cross Samantha Riley Drive—a hazardous four-lane road with 32 recorded accidents between 2019 and 2023—poses a significant safety risk. The walk to Beaumont Hills Public School (BHPS) is not only unsafe but also unsuitable for young children and elderly guardians due to the challenging uphill route. In contrast, KPS offers a safer, more accessible journey.
+	2.	Discrimination and Inconsistency
+It is baffling that parts of Kellyville farther from KPS (e.g., Lewis Jones Drive) remain in the catchment, while our community, located within walking distance, is excluded. This inconsistency is discriminatory and undermines the principle of equitable access to local public schools.
+	3.	Impact on Community and Social Bonds
+This change disrupts the established social bonds and friendships our children have formed within the community, forcing them to attend a school away from their neighbourhood peers. Such division is detrimental to their social development and overall well-being.
+	4.	Educational Concerns
+While all NSW public schools strive to deliver quality education, KPS has consistently demonstrated strong academic performance, as reflected in its NAPLAN results. The shift to BHPS, with lower enrolments and a less favourable local reputation, raises concerns among parents about the quality of education their children will receive.
+	5.	Contradiction with Active Transport Initiative
+The NSW Premier’s 2024 Active Transport Initiative aims to encourage walking and cycling to local schools. By excluding our community from the KPS catchment, this initiative is undermined, as our children could have safely walked to KPS. Instead, a costly and potentially unsafe school bus service is being proposed, which does not align with this policy.
+	6.	Lack of Planning for Capacity Issues
+The rezoning appears to be a short-term solution to address capacity issues at Bella Vista Public School (BVPS), which opened in 2019 and is already over capacity. The department’s failure to plan for growth in Kellyville and Bella Vista has now unfairly penalised our community, while schools like Matthew Pearce Public School have received capacity upgrades.
+	7.	Traffic Congestion
+The change will exacerbate traffic congestion on Samantha Riley Drive, adding chaos to an already overburdened road network.
 
-3) Investment in school capacity: It is the prerogative of the NSW Department of Education to invest in the upgrade of our public primary schools and cater for additional demand and enrolments at a school in advance of it eventuating to ensure education is not compromised. How is this shortcut solution you have proposed aligned with this? It is utterly ridiculous how you are compromising the livelihood and education of our children.
- 
- 
-Mr Fuller, I demand responses to each of the points mentioned in this letter rather than a useless generic email sent from your department. Please enlighten me:
+Proposed Solutions
+At the December meeting, the most reasonable and immediate solution was identified:
+	•	Reinstating our community within the KPS catchment.
+	•	Returning the affected Bella Vista community to the BVPS catchment.
 
-1) Why are you compromising the safety of our children by forcing them to cross an extremely busy road that has had a known history of accidents (6 including during covid where there was less traffic)? The walk to KPS is very straightforward and significantly safer (no blatant history of accidents compared to the walk to Beaumont Hills).
+This solution respects community ties, ensures safety, and aligns with the principles of fairness and equity. Additionally, the Department of Education must prioritise expanding local school capacities to accommodate the growing population in Kellyville and Bella Vista, rather than relying on rezoning as a temporary fix.
 
-2) Why are you happy to directly impact the community ties of our children by breaking up their friendships and bonds formed with the other children in their community including those met at day care and preschool? Why are you taking away the joy our children have built up over a number of years whenever they walk past Kellyville Public School, and the sense of belonging and joy they get from seeing that is their school? What is your rationale for creating community divide and not recognizing the important role our community has played in facilitating excellent educational and extracurricular activities at Kellyville Public School over an extended period of time? Simply put, the divide you have created is unacceptable and needs to be reversed.
+Future Planning
+With annual growth rates of 0.66% in Kellyville and 3.1% in Bella Vista, coupled with ongoing development in the Metro Precinct, it is imperative to allocate resources proactively to expand school capacities. Without such planning, similar issues will continue to arise, further straining families and communities.
 
-3) Why are parts of Kellyville far away from KPS (e.g. Lewis Jones Drive) included in the KPS catchment but our section of Kellyville is not even though we are walking distance to the school? This makes no sense and is blatant discrimination. The capacity argument just does not cut it.
+We strongly urge you to reconsider the catchment changes and reinstate our community within the Kellyville Public School catchment. If this change is not actioned, we demand a meeting with the Hon. NSW Deputy Premier, Ms Prue Car, to address these critical issues.
 
-4) What is the purpose of the NAPLAN assessment and the role of school rankings? Why are you happy to significantly compromise the educational upbringing of our children by changing their local public school from one of sound educational standard as per the NAPLAN assessment (Kellyville Public School) to one that is simply not of the same NAPLAN standing, which has resulted in consistent falls in enrollments to the school (Beaumont Hills Public School). Simply put, the change in our public school catchment is not a like for like educational change compared to the other changes you have made (e.g. Bella Vista to Kellyville, Bella Vista to Matthew Pearce, Bella Vista to Crestwood). This is completely unacceptable and our community demands reversal of this change.
+Thank you for your attention to this matter. We look forward to meaningful dialogue and a constructive resolution.
 
-5) Why is your department not investing in capacity upgrades at both Kellyville Public School and Bella Vista Public School? Why has only Matthew Pearce got funding for upgrades to the school? Your department has had plenty of foresight to see the developments around Norwest and Kellyville and the impact it would have on Bella Vista Public School enrolments, and the school only opened in January 2019. You have failed to adequately account for enrolments despite so much foresight. Why are you now penalizing the educational and community ties of our children instead of investing in additional capacity at both Bella Vista public and Kellyville public?
-The other concerns over safety for our children which we have previously raised with you remain, and the evaluation of school bus services is not a viable solution for this. It is disappointing that you have not considered or sought to table the points above with the Hon. NSW Deputy Premier, Ms. Prue Car.
-You will note from the consultation on 16 December 2024 that our community demands to be reinstated into the Kellyville Public School catchment, and will not take no for an answer. You also note that the section that was changed from Bella Vista public to Kellyville public catchment wants to be reinstated back to Bella Vista public. If we are being frank, the core issue stems with the government’s poor decision to add in a section of Bella Vista Public School catchment to our area and exclude us. As you heard in the meeting, the Bella Vista Public School parents do not want to attend KPS and would rather stay in their original catchment, and the KPS parents want to stay in our own original catchment. Switching both our communities back to their original respective school catchment would be the most logical solution. Why are you not considering this? Why are you happy to cause chaos amongst our community rather than action this completely reasonable solution?
-We demand our community to be permanently reinstated back into the Kellyville Public School catchment, and will not allow the educational standard and community ties of our children to be significantly disrupted due to the shortcomings and failure that your department has shown over a number of years in addressing capacity at Bella Vista public. If this change is not actioned, we demand a meeting with Prue Car so we can table these concerns.
-
-With regards,
-Your Name
+Kind regards,
+[Your Full Name]
+[Your Address]
+[Your Contact Information]
  
 ```
 
