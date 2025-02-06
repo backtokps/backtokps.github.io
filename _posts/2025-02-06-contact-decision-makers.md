@@ -35,6 +35,9 @@ By reaching out to decision-makers, we can show them the impact of this decision
 
 [Send an Email to Prue Car](https://www.nsw.gov.au/nsw-government/ministers/deputy-premier), request a detailed response to our points, and request a meeting
 
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/6d5f2ed5-27e9-40c7-9e87-d99619c246e5" />
+
+
 ### Send follow-up Email to Schools Infrastructure
 
 [⁠Send Follow-up Email to Schools Infrastructure](mailto:sinsw@det.nsw.edu.au?cc=backtokps@gmail.com)
