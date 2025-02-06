@@ -1,6 +1,6 @@
 ---
 title: Sign the petition
-author: Tao He
+author: Ahmed Elsaeidy
 date: 2022-02-06
 category: post
 layout: post

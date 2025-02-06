@@ -40,7 +40,7 @@
             },
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Ahmed Elsaeidy",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,

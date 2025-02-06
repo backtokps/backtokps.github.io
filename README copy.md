@@ -182,7 +182,7 @@ a `cover` field to the page metadata:
 ```diff
   ---
   title: Page with cover image
-  author: Tao He
+  author: Ahmed Elsaeidy
   date: 2022-05-24
   category: Jekyll
   layout: post
@@ -216,7 +216,7 @@ The example can be previewed from
 
 This work is open sourced under the Apache License, Version 2.0.
 
-Copyright 2019 Tao He.
+Copyright 2019 Ahmed Elsaeidy.
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes
