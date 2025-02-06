@@ -2,7 +2,7 @@
 title: Take Action - Help Us Bring Back Kellyville Public School as Our Catchment!
 author: Tao He
 date: 2025-02-06
-category: Jekyll
+category: post
 layout: post
 ---
 
