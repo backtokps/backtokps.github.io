@@ -6,4 +6,4 @@ category: post
 layout: post
 ---
 
-For any questions or to get in contact, please reach out to: backtokps@gmail.com
+For any questions or to get in contact, please reach out to: [backtokps@gmail.com](mailto:backtokps@gmail.com)
