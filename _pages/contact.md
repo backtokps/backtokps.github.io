@@ -6,4 +6,4 @@ category: post
 layout: post
 ---
 
-This is an contact page.
+For any questions or to get in contact, please reach out to: backtokps@gmail.com
