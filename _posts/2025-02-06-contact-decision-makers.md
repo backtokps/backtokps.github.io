@@ -25,6 +25,25 @@ By reaching out to decision-makers, we can show them the impact of this decision
 
 ---
 
+## Voice your concern to decision makers
+
+### Send Email to Ray Williams
+
+[Send an Email to Ray Williams](mailto:kellyville@parliament.nsw.gov.au?cc=backtokps@gmail.com)
+
+### Request a meeting with Prue Car
+
+[Send an Email to Prue Car](https://www.nsw.gov.au/nsw-government/ministers/deputy-premier), request a detailed response to our points, and request a meeting
+
+### Send follow-up Email to Schools Infrastructure
+
+[⁠Send Follow-up Email to Schools Infrastructure](mailto:sinsw@det.nsw.edu.au?cc=backtokps@gmail.com)
+
+### ⁠Send Follow-up Email to Matt Fuller
+
+[Send an Email to Ray Williams](mailto:metronorthnirimba@det.nsw.edu.au?cc=backtokps@gmail.com)
+
+
 ## **Email Templates**
 
 Below are email templates you can use to contact decision-makers. Feel free to copy, paste, and personalize them using AI tools or your own words.  
