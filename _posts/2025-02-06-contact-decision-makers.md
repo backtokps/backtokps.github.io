@@ -149,31 +149,27 @@ Kind regards,
 
 ---
 
-
 ## **Who to Contact**
 
 **1. Deputy Premier Prue Car**  
-- **Email:** prue.car@nsw.gov.au  
-- **Phone:** [Insert Phone Number]  
+- **Url:** [Deputy Premier Prue Car](https://www.nsw.gov.au/nsw-government/ministers/deputy-premier)
 
-**2. NSW Department of Education**  
-- **Email:** schoolinfrastructure@det.nsw.edu.au  
+**2. Mr Matt Fuller**  
+- **Email:** [metronorthnirimba@det.nsw.edu.au](mailto:metronorthnirimba@det.nsw.edu.au?cc=backtokps@gmail.com)
 - **Phone:** 1300 482 651  
 
 **3. Local MP Ray Williams**  
-- **Email:** [Insert Email]  
+- **Email:** [kellyville@parliament.nsw.gov.au](mailto:kellyville@parliament.nsw.gov.au?cc=backtokps@gmail.com) 
 - **Phone:** [Insert Phone Number]  
 
----
 
 ## **Tips for Personalizing Your Email**
 
-- Use AI tools like ChatGPT or Grammarly to reword the templates and add your personal touch.  
+- Use AI tools like ChatGPT or Deepseek to reword the templates and add your personal touch.  
 - Share your personal story: How has this decision affected your family?  
 - Be polite but firm in your tone.  
 - Include specific details about your concerns (e.g., safety risks, community ties, educational quality).  
 
----
 
 ## **Spread the Word**
 
@@ -181,7 +177,6 @@ Kind regards,
 - Post on social media using the hashtag **#SaveKPSCatchment**.  
 - Encourage others to take action and make their voices heard.  
 
----
 
 ## **Together, We Can Make a Difference**
 
