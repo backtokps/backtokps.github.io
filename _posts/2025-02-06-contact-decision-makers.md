@@ -156,11 +156,9 @@ Kind regards,
 
 **2. Mr Matt Fuller**  
 - **Email:** [metronorthnirimba@det.nsw.edu.au](mailto:metronorthnirimba@det.nsw.edu.au?cc=backtokps@gmail.com)
-- **Phone:** 1300 482 651  
 
 **3. Local MP Ray Williams**  
 - **Email:** [kellyville@parliament.nsw.gov.au](mailto:kellyville@parliament.nsw.gov.au?cc=backtokps@gmail.com) 
-- **Phone:** [Insert Phone Number]  
 
 
 ## **Tips for Personalizing Your Email**
